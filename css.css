@@ -1,0 +1,184 @@
+html {
+  background-color: black;
+}
+div {
+  font-family: sans-serif;
+}
+.au {
+  background-color: black;
+  justify-content: space-between;
+  display: flex;
+  color: white;
+  height: 20%;
+  margin: -10px;
+}
+
+.btn {
+  background-color: #808080;
+  border-radius: 5px;
+  width: 100px;
+  border: none;
+  margin: 8px;
+  color: white;
+  height: 50px;
+  position: relative;
+  top: 10px;
+}
+.g {
+  color: gray;
+  position: relative;
+  left: -30px;
+  margin-top: 30px;
+}
+
+.links {
+  background-color: black;
+  display: flex;
+  color: white;
+  font-size: 12px;
+  margin: 10px;
+}
+
+.link {
+  margin-left: 20px;
+  margin-top: 30px;
+  position: relative;
+  left: -65px;
+}
+
+.ime {
+  margin: 20px;
+}
+
+.n1 {
+  margin: 10px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.body2 {
+  height: 20%;
+}
+
+.full {
+  box-shadow: 10px -30px 300px black inset;
+  background-image: linear-gradient(110deg, rgb(72, 72, 72), #202020);
+  position: absolute;
+  top: 90px;
+  left: 0px;
+  width: 100%;
+  height: 82.3%;
+}
+
+.para1 {
+  margin: 60px;
+  width: 40%;
+  font-weight: 50;
+  color: white;
+  font-size: 45px;
+}
+
+.para2 {
+  margin: 60px;
+  width: 40%;
+  font-size: 30px;
+  font-weight: 90;
+  color: #2f2f2f;
+  position: relative;
+  top: -30px;
+  font-size: 35px;
+  color: #acacac
+}
+
+.end {
+  background-color: #404040;
+  display: flex;
+  justify-content: space-around;
+  height: 70px;
+  position: relative;
+  top: 71%;
+  z-index: 2;
+}
+
+.un {
+  display: flex;
+  justify-content: space-around;
+}
+
+.odd {
+  font-size: 22px;
+  color: white;
+  position: relative;
+  left: 11%;
+  font-family:'Trebuchet MS', sans-serif;
+  font-weight: bolder;
+}
+.wawa {
+  color: white;
+  position: relative;
+  left: 10%;
+  top: 8px;
+}
+
+.waa {
+  position: absolute;
+  left: 66%;
+  top: 100px;
+  color: blue;
+  z-index: 1;
+  box-shadow: 0px 0px 60px black;
+}
+
+.wa1 {
+  z-index: 1;
+  color: #03ecfc;
+}
+
+.ode {
+  display: flex;
+  border-style: solid;
+  border-color: #d0d0d0;
+  border-width: 1px;
+  width: 50%;
+  text-align: center;
+}
+
+.txt {
+  position: absolute;
+  top: 55px;
+  left: 66.5%;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  width: 230px;
+  z-index: 5;
+}
+
+.btn1 {
+  font-size: 35px;
+  font-weight: 700;
+  background-color: #66ff66;
+  border: none;
+  border-radius: 3px;
+  height: 80px;
+  width: 300px;
+}
+
+.btn2 {
+  font-size: 40px;
+  color: white;
+  background-color: #242424;
+  border: none;
+  border-radius: 3px;
+  height: 80px;
+  width: 250px;
+}
+
+.obtns {
+  display: flex;
+  justify-content: space-between;
+  width: 560px;
+  position: relative;
+  top: -40px;
+  left: 60px;
+}
